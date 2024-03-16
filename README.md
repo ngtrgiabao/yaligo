@@ -6,4 +6,4 @@ DEMO Design
 
 Figma design:
 
-[Preview here](https://www.figma.com/file/hLDDvxFORggMo8mRWG7V6o/DuoYaligo-App-UI---Free-UI-Kit-(Recreated)-(Community)?type=design&node-id=8-42&mode=design&t=iYcZRhudVvaiAlJa-0)
+[Preview here](https://www.figma.com/file/hLDDvxFORggMo8mRWG7V6o/Duolingo-App-UI---Free-UI-Kit-(Recreated)-(Community)?type=design&node-id=8-42&mode=design&t=iYcZRhudVvaiAlJa-0)
